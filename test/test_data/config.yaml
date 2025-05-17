@@ -1,0 +1,7 @@
+log:
+ time1: 111
+ time2: "222"
+
+mysql:
+ pass: jade
+ user: zzz

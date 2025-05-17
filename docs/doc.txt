@@ -1,0 +1,10 @@
+实现了：
+1. restful类型项目异常管理 -- done
+2. 接口幂等性判断 -- no done
+3. 对象json化  -- done
+4. 数据库事务管理  -- no done （使用flask-sqlalchemy集成）
+5. 通用flask视图函数类简化开发  --done
+6. 单元测试  -- no done
+7. 日志管理 -- done
+8. 定时任务集成 -- no done
+9. 任务锁实现 -- no done
